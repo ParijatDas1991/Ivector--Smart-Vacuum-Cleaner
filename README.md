@@ -6,7 +6,7 @@ This is a Software Maintenance project focused on the latest technology of the S
 The entire packet of the project including the presentations and the word document has been included here for your reference. 
 I have also created several goocle forms and google spread sheet according to the software maintenance of this project. 
 We have also made a prototype version of the software that will be used by the smart vacuum cleaner. 
-The screenshot and the link of those will be mentioned below. 
+Please find the read me document for the screenshot and the link of those will be mentioned below. 
 
 
 Ivector maintenance Request form - link of google form:
